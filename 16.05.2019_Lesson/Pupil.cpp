@@ -21,7 +21,6 @@ void Pupil::show()
 istream & operator>>(istream & is, Pupil & obj)
 {
 	getline(is, obj.name, '#');
-	//is.get();
 	is >> obj.age >> obj.school >> obj.grade;
 	return is;
 }
