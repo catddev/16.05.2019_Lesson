@@ -1,0 +1,4 @@
+pupil Jon Snow#18 101 11
+student Cersei Lannister#37 Westeros IT-13
+student Arya Stark#16 Braavos NT-8
+pupil Daenerys Targaryen#17 Meerin 10
